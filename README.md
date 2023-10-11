@@ -2,4 +2,4 @@
 
 --
 
-Repositório com propósito para aprendizado.
+Repositório com propósito de aprendizado.
