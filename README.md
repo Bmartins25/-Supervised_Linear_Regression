@@ -1,4 +1,4 @@
-# Supervisionado_Linear_regression
+# Supervised_Linear_regression
 
 --
 
